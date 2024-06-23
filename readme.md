@@ -1,3 +1,3 @@
-# chai aur backend series
+# learning backend 
 
-This is video series with backend
+This is a video series with a backend
